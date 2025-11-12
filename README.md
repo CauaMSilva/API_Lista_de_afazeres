@@ -41,4 +41,5 @@ O objetivo é demonstrar o uso de um ORM para criar, ler, atualizar e deletar re
 ## Autor
 
 **Cauã Maciel**
-📬 LinkedIn: https://www.linkedin.com/in/cau%C3%A3-maciel-6522bb300/
+
+LinkedIn: https://www.linkedin.com/in/cau%C3%A3-maciel-6522bb300/
