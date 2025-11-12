@@ -7,8 +7,6 @@ O objetivo é demonstrar o uso de um ORM para criar, ler, atualizar e deletar re
 
 ## Tecnologias Utilizadas
 
----
-
 - **Node.js**
 - **Express**
 - **Sequelize (ORM)**
